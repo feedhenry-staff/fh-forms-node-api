@@ -1,0 +1,21 @@
+{
+  "name": "fh-forms-node-api",
+  "version": "0.0.1",
+  "description": "Module containg all fh.forms Node APIs for use with App form on FeedHenry 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FeedHenry",
+    "3",
+    "App",
+    "Forms",
+    "fh.forms",
+    "$fh.forms",
+    "Node",
+    "API"
+  ],
+  "author": "Colúm Bennett",
+  "license": "ISC"
+}
