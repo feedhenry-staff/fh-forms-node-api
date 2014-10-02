@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "FeedHenry",
-    "3",
+    "FeedHenry3",
     "App",
     "Forms",
     "fh.forms",
@@ -20,13 +19,13 @@
   "license": "ISC",
   "dependencies": {
     "fh-mbaas-api": "^4.4.0",
-    "winston": "^0.8.0",
     "grunt": "^0.4.4",
-    "grunt-shell": "~0.6.1",
-    "mocha": "^1.21.4",
-    "time-grunt": "^1.0.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-lintspaces": "^0.5.1",
-    "jshint-stylish": "^0.4.0"
+    "grunt-shell": "~0.6.1",
+    "jshint-stylish": "^0.4.0",
+    "logger": "git+https://github.com/col1985/logger.git",
+    "mocha": "^1.21.4",
+    "time-grunt": "^1.0.0"
   }
 }
